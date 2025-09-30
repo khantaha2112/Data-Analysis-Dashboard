@@ -13,6 +13,8 @@ performance** to support data-driven decision-making.
 
   <img width="1431" height="664" alt="Screenshot 2025-09-30 114435" src="https://github.com/user-attachments/assets/ff6f9ad5-b93c-45d7-81d4-e83a7e08a960" />
 
+
+
 **📂 Dataset Used**
    - <a href="https://github.com/khantaha2112/Data-Analysis-Dashboard/blob/main/Blinkit%20Data%20Analyst%20Project.xlsx">Dataset</a>
 
@@ -50,6 +52,7 @@ To conduct a comprehensive analysis of Blinkit's:
 
     -   Definition: The average customer rating for items sold.
     -   Excel Implementation: AVERAGE(Rating) formula.
+
 
 -📊 Dashboard Interaction <a href="https://github.com/khantaha2112/Data-Analysis-Dashboard/blob/main/Dashboard_Image.png">View Dashboard</a>
 
@@ -92,6 +95,7 @@ To conduct a comprehensive analysis of Blinkit's:
     -   Objective: Compare sales among outlet formats.
     -   Chart Type: **Bar Chart**
 
+
 **⚡ Tools & Techniques Used**
 
    -   **Pivot Tables & Pivot Charts**
@@ -104,6 +108,7 @@ To conduct a comprehensive analysis of Blinkit's:
 
   -   **Dynamic Named Ranges** for charts
 
+
 **📂 Repository Structure**
 
   📁 Blinkit - Excel-Dashboard
@@ -113,6 +118,7 @@ To conduct a comprehensive analysis of Blinkit's:
    ├── 📄 Blinkit_Dashboard_Report.pdf \# Exported dashboard report
 
    ├── 📄 README.md \# Project documentation
+
 
 **🔑 Key Insights**
 
@@ -126,6 +132,7 @@ To conduct a comprehensive analysis of Blinkit's:
    -   **Supermarket Type 1 leads in sales performance (\$787.5K).**
 
    -   **Sales peaked in 2018 (\$204K) before declining in later years.**
+
 
 **🚀 Conclusion**
 
