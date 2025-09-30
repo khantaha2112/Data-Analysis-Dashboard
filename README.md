@@ -10,7 +10,8 @@ The goal is to identify **key trends, sales drivers, and outlet
 performance** to support data-driven decision-making.
 
 **📊 Dashboard**
-    <img width="1431" height="664" alt="Screenshot 2025-09-30 114435" src="https://github.com/user-attachments/assets/ff6f9ad5-b93c-45d7-81d4-e83a7e08a960" />
+
+  <img width="1431" height="664" alt="Screenshot 2025-09-30 114435" src="https://github.com/user-attachments/assets/ff6f9ad5-b93c-45d7-81d4-e83a7e08a960" />
 
 **📂 Dataset Used**
    - <a href="https://github.com/khantaha2112/Data-Analysis-Dashboard/blob/main/Blinkit%20Data%20Analyst%20Project.xlsx">Dataset</a>
