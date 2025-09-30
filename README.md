@@ -12,7 +12,7 @@ The goal is to identify **key trends, sales drivers, and outlet
 performance** to support data-driven decision-making.
 
 **Dataset Used**
--  <a href="htttps://https://github.com/khantaha2112/Data-Analysis-Dashboard/blob/main/Blinkit%20Data%20Analyst%20Project.xlsx"> View Dashboard</a>
+- <a href="htttps://https://github.com/khantaha2112/Data-Analysis-Dashboard/blob/main/Blinkit%20Data%20Analyst%20Project.xlsx">Dataset</a>
 
 **🎯 Business Requirement**
 
