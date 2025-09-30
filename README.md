@@ -111,7 +111,7 @@ To conduct a comprehensive analysis of Blinkit's:
 
 **📂 Repository Structure**
 
-  📁 Blinkit - Excel-Dashboard
+ 📁 Blinkit - Excel-Dashboard
 
    ├── 📊 Blinkit_Dashboard.xlsx \# Main interactive Excel dashboard
 
