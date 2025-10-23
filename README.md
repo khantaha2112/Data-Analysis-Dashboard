@@ -2,7 +2,7 @@
 
 **📌 Project Overview**
 
-This project is an **Interactive Excel Dashboard** built to analyseBlinkit's sales performance, customer satisfaction, and inventory
+This project is an **Interactive Excel Dyanmic Dashboard** built to analyse Blinkit's sales performance, customer satisfaction, and inventory
 distribution. The dashboard leverages **Excel formulas, pivot tables,slicers, and charts** to deliver insights into total sales, item
 categories, outlet performance, and customer ratings.
 
